@@ -1,5 +1,5 @@
 <div align='center'>
-  <img src="https://capsule-render.vercel.app/api?type=shark&color=72b7f7&height=250&section=header&text=Kina's%20GitHub&fontSize=60&animation=scaleIn"/>
+  <img src="https://capsule-render.vercel.app/api?type=shark&color=ff94ff&height=250&section=header&text=Kina's%20GitHub&fontSize=60&animation=scaleIn"/>
   <h2> Technology Stack📚 </h2>
   <p>
     <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>
@@ -21,7 +21,7 @@
 
 ### (❁´◡`❁)
 
-- 🔭 I’m currently working on NHN
+- 🔭 I’m currently working on Kakao
 - 📫 How to reach me: platina.kusakina@gmail.com
 <!--
 **kusakina0608/kusakina0608** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
