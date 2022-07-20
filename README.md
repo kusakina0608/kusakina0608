@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Kina😸</h1>
+<h1 align="center">Hi, I'm Kina (｡•̀ᴗ-)✧</h1>
 <h3 align="center">A passionate backend developer from Korea</h3>
 
 <p align="left">
